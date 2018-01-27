@@ -1,0 +1,13 @@
+                                                Inventory Purge Report
+                                                                                    Date: Jan. 27, 2018
+
+
+
+
+Item           Item Purchase         Item                %               Item          Item         Item
+Number             Date              Count              Sold             Sold          Age       Revenue_Lost
+2034           Sep. 12,	2010          109                8%               9              7       $ 9909.00
+9909           Jan. 26,	2012           12                8%               1              6       $ 329.89
+0010           Jul. 24,	2012           50                4%               2              6       $ 4309.44
+
+                                                                  Total Revenue	                 $ 14548.33
